@@ -19,6 +19,7 @@
   "dependencies": {
     "botbuilder": "^3.14.1",
     "express": "^4.16.3",
-    "restify": "^7.1.1"
+    "restify": "^7.1.1",
+    "sentiment": "^5.0.0"
   }
 }
